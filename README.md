@@ -32,3 +32,32 @@
   <h1>Titulo</h1>
   <h1>sub titulo</h1>
   ```
+2. Definición y ejemplo de las nuevas etiquetas HTML5.
+  - header: ayuda a definir la cabecera de una seccion o la web
+  ```html
+  <header>
+    es un header
+  </header>
+  ```
+  - nav: ayuda a definir una sección de navegación.
+  ```html
+  <nav>
+    <ul>
+      <li>es</li>
+      <li>un</li>
+      <li>nav</li>
+    </ul>
+  </nav>
+  ```
+  - article: ayuda a definir un articulo independiente que se puede reutilizar.
+  ```html
+  <article>
+    es un article
+  </article>
+  ```
+  - section: ayuda a definir una sección de contenido
+  ```html
+  <section>
+    es una seccion
+  </section>
+  ```
